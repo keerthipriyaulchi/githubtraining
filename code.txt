@@ -1,1 +1,3 @@
 this is samplefile2
+this is test for commit reset2
+
